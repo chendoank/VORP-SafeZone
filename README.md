@@ -6,4 +6,4 @@ User will be notified when they are get in/out of the zone.<br />
 Check out the config.lua for configuration.<br />
 
 This is script is basically a modified version form the original lemekap_zonelocker script. All credits goes to him.<br />
-You can change the radius and zone itself on the config.lua.<br /?
+You can change the radius and zone itself on the config.lua.<br />
