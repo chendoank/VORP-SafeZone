@@ -1,15 +1,9 @@
-# lemekap_zonelocker
-RedM Mod allowing you to block the map.<br />
-There's some code in commentary for enabling weather changes. Its commented by default but you can figure it out..<br />
+# VORP-SafeZone
+This script allow you to make users be immune to any attack.<br />
+As long as the user are inside the designated zone.<br />
 
-This allow the creation of a circle on the map, people outside of it will begin a timer, then die..<br />
-Check out the config.lua for configuration. .<br />
+User will be notified when they are get in/out of the zone.<br />
+Check out the config.lua for configuration.<br />
 
-Make sure that the player fully reconnect for testing purposes.<br />
-
-<br />
-Do not change the name of the folder. If you share this project, just put a link to my github's project (https://github.com/Mekap/lemekap_zonelocker/).
-If you got this project without passing by my github, feel free to report it to me.<br />
-
-For the French community, you can join my discord server here for my other projects (redm or otherwise) https://discord.gg/AK9bxE7Tv7. 
-Always happy to see other fellow french devs ! See you around.<br />
+This is script is basically a modified version form the original lemekap_zonelocker script. All credits goes to him.<br />
+You can change the radius and zone itself on the config.lua.<br /?
